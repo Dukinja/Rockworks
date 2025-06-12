@@ -6,3 +6,6 @@ Version: alpha 1.0
 # Feautres
 • Username Sync
 • Position Sync
+
+# NOTE! 
+char sprite and bgm is not provided
